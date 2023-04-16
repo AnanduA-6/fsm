@@ -1,0 +1,29 @@
+.page {
+
+    position: relative;
+
+    margin-left: 0%;
+
+    font-weight: bolder;
+
+
+
+}
+
+
+
+.nav {
+
+    font-size: 150%;
+
+    font-weight: bolder;
+
+}
+
+.left{
+    float: left;
+}
+.mr-sm-2
+{
+    margin-right: 30%;
+}
